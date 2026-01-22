@@ -32,7 +32,11 @@ const HeroSection = () => {
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight animate-fade-in">
             Check if a Job is{" "}
             <span className="text-primary cyber-text-glow">Real or a Scam</span>
+<<<<<<< HEAD
             {" "} Before You Apply
+=======
+            {" "}— Before You Apply
+>>>>>>> 24a5f147b1a8d6e08f84c54343ddd500726e2cee
           </h1>
 
           {/* Subheading */}
