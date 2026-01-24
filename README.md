@@ -1,4 +1,4 @@
-# JobShield 
+# JobShield - Job Scam Detection Platform
 
 ## Project info
 
